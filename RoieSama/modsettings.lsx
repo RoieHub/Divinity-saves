@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<save>
+    <header version="2" />
+    <version major="3" minor="6" revision="9" build="0" />
+    <region id="ModuleSettings">
+        <node id="root">
+            <children>
+                <node id="ModOrder" />
+                <node id="Mods">
+                    <children>
+                        <node id="ModuleShortDesc">
+                            <attribute id="Folder" value="DivinityOrigins_1301db3d-1f54-4e98-9be5-5094030916e4" type="30" />
+                            <attribute id="MD5" value="73d13f95607b70c953cc32e56d62b7d7" type="23" />
+                            <attribute id="Name" value="Divinity: Original Sin 2" type="22" />
+                            <attribute id="UUID" value="1301db3d-1f54-4e98-9be5-5094030916e4" type="22" />
+                            <attribute id="Version" value="373234071" type="4" />
+                        </node>
+                        <node id="ModuleShortDesc">
+                            <attribute id="Folder" value="Shared" type="30" />
+                            <attribute id="MD5" value="bbe5db70bb4fb88387fb2319428a6995" type="23" />
+                            <attribute id="Name" value="Shared" type="22" />
+                            <attribute id="UUID" value="2bd9bdbe-22ae-4aa2-9c93-205880fc6564" type="22" />
+                            <attribute id="Version" value="389028377" type="4" />
+                        </node>
+                        <node id="ModuleShortDesc">
+                            <attribute id="Folder" value="Character_Creation_Pack" type="30" />
+                            <attribute id="MD5" value="" type="23" />
+                            <attribute id="Name" value="Character_Creation_Pack" type="22" />
+                            <attribute id="UUID" value="b40e443e-badd-4727-82b3-f88a170c4db7" type="22" />
+                            <attribute id="Version" value="268435456" type="4" />
+                        </node>
+                    </children>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>
